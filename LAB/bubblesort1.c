@@ -1,4 +1,4 @@
-//program for linear search
+//program for Bubblesort
 //Shadhiya Shahul
 //Roll no:58
 #include<stdio.h>
