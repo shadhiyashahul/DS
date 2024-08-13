@@ -1,6 +1,6 @@
 //program to find addition of two polynomilas
-//Devika P Sajith
-//Roll no:26
+//Shadhiya Shahul
+//Roll no:58
 #include <stdio.h>
 struct poly
 {
